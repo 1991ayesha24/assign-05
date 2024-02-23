@@ -1,0 +1,40 @@
+body {
+    background-image: url(./images/abstract-rose-quarz-pink-fusia-background.jpg);
+}
+
+.abc {
+    font-weight: bold;
+}
+
+.def {
+    font-size: 20px;
+    font-family: sans-serif;
+    font-style: italic;
+}
+
+.demo {
+    border: 2px solid;
+    padding: inherit;
+    border-width: 1px;
+    text-align: left;
+    border-style: double;
+}
+
+.page {
+    line-height: 2.5em;
+}
+
+.para {
+    letter-spacing: 0.5em;
+    background-image: url(./images/istockphoto-186834494-1024x1024.jpg);
+    background-repeat: no-repeat;
+    text-indent: -9999px;
+    text-indent: 20px;
+    background-position-x: left;
+}
+
+.object {
+    letter-spacing: 0.5em;
+    background-image: url(./images/istockphoto-186834494-1024x1024.jpg);
+    background-repeat: no-repeat;
+}
